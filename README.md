@@ -2,9 +2,9 @@
 <!--
 Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Golang, based in India. With a passion for crafting efficient and scalable backend systems, I thrive on solving complex problems and delivering high-quality software solutions. 
 
-![robertcjoshy's Stats](https://github-readme-stats.vercel.app/api?username=robertcjoshy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+![robertcjoshy's Stats](https://github-readme-stats.vercel.app/api?username=robertcjoshy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
-## 👋 About Me
+## 👋 About Me -->
 - 🔭 I’m currently working on developing web applications using Golang and Gin.
 - 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/robertcjoshy) or drop me an email at robertcjoshy12@gmail.com.
 - 💬 Ask me about Golang, Gin, RESTful APIs, concurrency patterns, and anything related to backend development.
