@@ -17,7 +17,7 @@ Greetings! I'm Jane Smith, a dedicated backend developer specializing in Golang,
 
 ## 📊 GitHub Stats
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,postgres,aws,django,js,html,css)](https://skillicons.dev)
+![robertcjoshy's Stats](https://github-readme-stats.vercel.app/api?username=robertcjoshy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## 🌐 Connect with Me
