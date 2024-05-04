@@ -22,10 +22,21 @@ Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Gol
 
 [![My Skills](https://skillicons.dev/icons?i=go,py,postgres,aws,django,js,html,css)](https://skillicons.dev)
 <!--
-## 📊 GitHub Stats -->
+## 📊 GitHub Stats 
 
-![robertcjoshy's Stats](https://github-readme-stats.vercel.app/api?username=robertcjoshy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![robertcjoshy's Stats](https://github-readme-stats.vercel.app/api?username=robertcjoshy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+## 🌱 Currently Exploring
 
+- 🚀 Learning Backend developemnt.
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Gin, a powerful Golang web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 ## 🌐 Connect with Me
 
