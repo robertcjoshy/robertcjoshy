@@ -1,59 +1,32 @@
+## 👋 About Me
 
-# Hi, I'm Robert C Joshy 👋
-<!--
-I am a passionate MCA graduate, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
--->
-<!--
-Hello! I'm Robert C joshy, a passionate software engineer based in San Francisco, CA. With over 5 years of experience in the tech industry, I have a strong background in full-stack web development and a keen interest in building scalable and robust software solutions.
--->
+Greetings! I'm Jane Smith, a dedicated backend developer specializing in Golang, based in Seattle, WA. With a passion for crafting efficient and scalable backend systems, I thrive on solving complex problems and delivering high-quality software solutions.
 
-Hi there! I'm Robert C joshy, a passionate software developer from india. I love building web applications/backend solutions and exploring new technologies.
+- 🔭 I’m currently working on developing microservices architecture using Golang and Kubernetes.
+- 🌱 I’m continually learning and exploring best practices in distributed systems and cloud-native technologies.
+- 💬 Ask me about Golang, RESTful APIs, concurrency patterns, and anything related to backend development.
+- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/janesmith) or drop me an email at jane.smith@example.com.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Outside of coding, I enjoy hiking in the Pacific Northwest and experimenting with new recipes in the kitchen.
 
+## 🚀 Skills
 
-## 🚀 About Me
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- Programming Languages: Golang, Python, Java
+- Web Frameworks: Gin, Echo
+- Database Systems: PostgreSQL, MySQL, MongoDB
+- Cloud Technologies: AWS (Lambda, S3, DynamoDB), Google Cloud Platform
+- Containerization: Docker, Kubernetes
+- Messaging Systems: Kafka, RabbitMQ
+- Testing: Go Testing, Postman, Newman
+- Version Control: Git, GitHub, GitLab
 
 ## 📊 GitHub Stats
-![robertcjoshy's Stats](https://github-readme-stats.vercel.app/api?username=robertcjoshy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=go,py,postgres,aws,django,js,html,css)](https://skillicons.dev)
-
-
-## 🌱 Currently Exploring
-
-- 🚀 Learning Backend developemnt.
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Gin, a powerful Golang web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+![Jane Smith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janesmith&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 
-- LinkedIn:  [Your LinkedIn Profile](https://www.linkedin.com/robertcjoshy)
-- Email:     robertcjoshy12@email.com
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [Jane Smith](https://www.linkedin.com/in/janesmith)
+- Twitter: [@janesmith_dev](https://twitter.com/janesmith_dev)
+- Personal Website: [www.janesmith.dev](https://www.janesmith.dev)
+- Email: jane.smith@example.com
