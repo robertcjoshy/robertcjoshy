@@ -9,6 +9,7 @@ Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Gol
 - 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/robertcjoshy) or drop me an email at robertcjoshy12@gmail.com.
 - 💬 Ask me about Golang, Gin, RESTful APIs, concurrency patterns, and anything related to backend development.
 - 🤝 I'm open to collaborating on Golang Gin projects
+- ⚡ Fun fact: I ❤️ football
 <!--
 - 🔭 I’m currently working on developing web applications using Golang and Gin.
 - 🌱 I’m continually learning and exploring best practices in distributed systems and cloud-native technologies.
@@ -28,8 +29,7 @@ Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Gol
 
 - 🚀 Learning Backend developemnt.
   - Exploring the ins and outs of Golang and Gin for Web Development.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Navigating through the world of Golang.
   - Building server-side applications with Gin, a powerful Golang web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
