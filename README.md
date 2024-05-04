@@ -1,9 +1,13 @@
-# Hi, I'm Robert C Joshy 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert C Joshy
+======================================================================================================================================
 
 Backend Developer
 -----------------
 
-## 👋 About Me
+* 🌍  I'm based in India
+* ✉️  You can contact me at [robertcjoshy12@gmail.com](mailto:robertcjoshy12@gmail.com)
+* 🧠  I'm learning to develop web applications using Golang and Gin.
+* 🤝  I'm open to collaborating on Golang Gin projects
 
 Greetings! I'm Jane Smith, a dedicated backend developer specializing in Golang, based in Seattle, WA. With a passion for crafting efficient and scalable backend systems, I thrive on solving complex problems and delivering high-quality software solutions.
 
