@@ -1,4 +1,4 @@
-# Hi, I'am Robert C Joshy
+# Hi, I'm Robert C Joshy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Golang, based in India. With a passion for crafting efficient and scalable backend systems, I thrive on solving complex problems and delivering high-quality software solutions.
 
@@ -27,7 +27,7 @@ Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Gol
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Backend developemnt.
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Exploring the ins and outs of Golang and Gin for Web Development.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Gin, a powerful Golang web framework.
@@ -39,5 +39,5 @@ Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Gol
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Jane Smith](https://www.linkedin.com/in/robertcjoshy)
+- LinkedIn: [Robert C Joshy](https://www.linkedin.com/in/robertcjoshy)
 - Email: robertcjoshy12@gmail.com
