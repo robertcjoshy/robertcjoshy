@@ -36,11 +36,9 @@ Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Gol
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Completed 50 days badge in leetcode
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Jane Smith](https://www.linkedin.com/in/janesmith)
-- Twitter: [@janesmith_dev](https://twitter.com/janesmith_dev)
-- Personal Website: [www.janesmith.dev](https://www.janesmith.dev)
-- Email: jane.smith@example.com
+- LinkedIn: [Jane Smith](https://www.linkedin.com/in/robertcjoshy)
+- Email: robertcjoshy12@gmail.com
