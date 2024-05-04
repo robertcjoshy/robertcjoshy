@@ -18,7 +18,7 @@ Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Gol
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Outside of coding, I enjoy playing and watching football. -->
 
-## Tech Stack
+## 🚀 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=go,py,postgres,aws,django,js,html,css)](https://skillicons.dev)
 <!--
