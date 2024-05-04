@@ -6,9 +6,8 @@ Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Gol
 
 ## 👋 About Me
 - 🔭 I’m currently working on developing web applications using Golang and Gin.
-- ✉️ You can contact me at [robertcjoshy12@gmail.com](mailto:robertcjoshy12@gmail.com)
-- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/janesmith) or drop me an email at jane.smith@example.com.
-- 💬 Ask me about Golang, RESTful APIs, concurrency patterns, and anything related to backend development.
+- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/robertcjoshy) or drop me an email at robertcjoshy12@gmail.com.
+- 💬 Ask me about Golang, Gin, RESTful APIs, concurrency patterns, and anything related to backend development.
 - 🤝 I'm open to collaborating on Golang Gin projects
 <!--
 - 🔭 I’m currently working on developing web applications using Golang and Gin.
