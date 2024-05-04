@@ -20,7 +20,7 @@ Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Gol
 
 ## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,postgres,aws,django,js,html,css)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=go,py,postgres,aws,django,js,html,css,vscode)](https://skillicons.dev) 
 <!--
 ## 📊 GitHub Stats 
 
