@@ -5,8 +5,8 @@ Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Gol
 ![robertcjoshy's Stats](https://github-readme-stats.vercel.app/api?username=robertcjoshy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
 ## 👋 About Me -->
-- 🔭 I’m currently working on developing web applications using Golang and Gin.
-- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/robertcjoshy) or drop me an email at robertcjoshy12@gmail.com.
+- 🔭 I’m currently learning on developing web applications using Golang and Gin.
+- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/robertcjoshy) or robertcjoshy12@gmail.com.
 - 💬 Ask me about Golang, Gin, RESTful APIs, concurrency patterns, and anything related to backend development.
 - 🤝 I'm open to collaborating on Golang Gin projects
 - ⚡ Fun fact: I ❤️ football
