@@ -1,7 +1,14 @@
 
 # Hi, I'm Robert C Joshy 👋
-
+<!--
 I am a passionate MCA graduate, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+-->
+<!--
+Hello! I'm Robert C joshy, a passionate software engineer based in San Francisco, CA. With over 5 years of experience in the tech industry, I have a strong background in full-stack web development and a keen interest in building scalable and robust software solutions.
+-->
+
+Hi there! I'm Robert C joshy, a passionate software developer from india. I love building web applications/backend solutions and exploring new technologies.
+
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
@@ -9,10 +16,13 @@ I am a passionate MCA graduate, driven by a curiosity for technology and a love 
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
+
 ![robertcjoshy's Stats](https://github-readme-stats.vercel.app/api?username=robertcjoshy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=go,py,postgres,aws,django,js,html,css)](https://skillicons.dev)
+
 
 ## 🌱 Currently Exploring
 
