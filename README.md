@@ -1,22 +1,20 @@
-# Hi, My name is Robert C Joshy
+# Hi, I'am Robert C Joshy
 
-Greetings! I'm Jane Smith, a dedicated backend developer specializing in Golang, based in Seattle, WA. With a passion for crafting efficient and scalable backend systems, I thrive on solving complex problems and delivering high-quality software solutions.
+Hi there, I'm Robert C Joshy, a passionate backend developer specializing in Golang, based in India. With a passion for crafting efficient and scalable backend systems, I thrive on solving complex problems and delivering high-quality software solutions.
 
 ## 👋 About Me
-* 🌍  I'm based in India
-* ✉️  You can contact me at [robertcjoshy12@gmail.com](mailto:robertcjoshy12@gmail.com)
-* 🧠  I'm learning to develop web applications using Golang and Gin.
-* 🤝  I'm open to collaborating on Golang Gin projects
-
-
+- 🔭 I’m currently working on developing web applications using Golang and Gin.
+- ✉️ You can contact me at [robertcjoshy12@gmail.com](mailto:robertcjoshy12@gmail.com)
+- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/janesmith) or drop me an email at jane.smith@example.com.
+- 💬 Ask me about Golang, RESTful APIs, concurrency patterns, and anything related to backend development.
+- 🤝 I'm open to collaborating on Golang Gin projects
+<!--
 - 🔭 I’m currently working on developing web applications using Golang and Gin.
 - 🌱 I’m continually learning and exploring best practices in distributed systems and cloud-native technologies.
-<!--
-- 💬 Ask me about Golang, RESTful APIs, concurrency patterns, and anything related to backend development. -->
+- 💬 Ask me about Golang, RESTful APIs, concurrency patterns, and anything related to backend development. 
 - 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/janesmith) or drop me an email at jane.smith@example.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Outside of coding, I enjoy playing and watching football.
-
+- ⚡ Fun fact: Outside of coding, I enjoy playing and watching football. -->
 
 ## Tech Stack
 
