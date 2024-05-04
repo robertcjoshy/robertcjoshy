@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # Hi, I'm Robert C Joshy 👋
 
@@ -7,8 +6,8 @@ I am a passionate MCA graduate, driven by a curiosity for technology and a love 
 ![robertcjoshy's Stats](https://github-readme-stats.vercel.app/api?username=robertcjoshy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
-
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- **Name:** Robert c joshy 
+- 🔭
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
@@ -18,7 +17,7 @@ I am a passionate MCA graduate, driven by a curiosity for technology and a love 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=go,aws,postgres,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,postgres,aws,django,js,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
